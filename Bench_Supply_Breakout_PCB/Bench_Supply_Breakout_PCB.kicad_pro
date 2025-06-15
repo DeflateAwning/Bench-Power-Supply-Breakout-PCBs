@@ -450,7 +450,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Bench_Supply_GND_Joiner_Bar_PCB.kicad_pro",
+    "filename": "Bench_Supply_Breakout_PCB.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -610,7 +610,7 @@
   },
   "sheets": [
     [
-      "1510fddd-616e-4469-98fd-a9c7421c0a94",
+      "42a4cec2-c475-4655-8207-21c4961938d5",
       "Root"
     ]
   ],
